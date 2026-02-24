@@ -10,3 +10,4 @@ Stage - tells github you'll be syncing soon. Always save before staging. To stag
 Commit - this is  the copy you want to sync to Github - a snapshot. useful if you make errors, then you can go back. So can Commit numerous times to track your work. Commits are like anchors on a trad climb, you cant fall below the most recent gear.
 
 #edits by Giovanna
+#edits by Giovanna in R as I was supposed to
