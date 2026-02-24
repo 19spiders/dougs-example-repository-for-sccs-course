@@ -7,4 +7,6 @@ Then sync changes from R (local) to Github (remote):
 1. Pull 2. Stage 3. Commit 4. Push 
 Pull - is pulling from the remote github repo to R, to make sure you are working on the most up-to-date copy in R. Always start work with a Pull. 
 Stage - tells github you'll be syncing soon. Always save before staging. To stage tick the box next to the file to sync.
-Commit - this is  the copy you want to sync to Github - a snapshot. useful if you make errors, then you can go back. So can Commit numerous times to track your work. Commits are like anchors on a trad climb, you cant fall below the most recent gear. 
+Commit - this is  the copy you want to sync to Github - a snapshot. useful if you make errors, then you can go back. So can Commit numerous times to track your work. Commits are like anchors on a trad climb, you cant fall below the most recent gear.
+
+#edits by Giovanna
